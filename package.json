@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "ethers": "^6.11.1"
+    },
+    "name": "gamma-query",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+}
